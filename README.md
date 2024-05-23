@@ -20,7 +20,7 @@ Clone the repository to your local machine:
 
 bash
 Copy code
-git clone https://github.com/mayankjindal07/parking-lot-management-system-in-c++.git
+git clone https://github.com/mayankjindal07/parking-lot-management-system-in-c_plus_plus.git
 Navigate to the project directory:
 
 bash
