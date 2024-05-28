@@ -10,6 +10,11 @@ Status Display: Displays the current status of parking spaces, including occupie
 User-Friendly Interface: Provides an intuitive command-line interface for easy interaction with the system.
 Getting Started
 
+<img width="505" alt="Screenshot 2024-05-24 at 12 01 15 AM" src="https://github.com/mayankjindal07/Parking-Lot-Management-system/assets/65009572/3b55ad38-635f-4ed4-9ca5-19a968aab233">
+
+<img width="391" alt="Screenshot 2024-05-24 at 12 01 24 AM" src="https://github.com/mayankjindal07/Parking-Lot-Management-system/assets/65009572/7d6ff22c-08db-4a01-b104-76d9193dd300">
+
+
 Follow these instructions to get a copy of the project up and running on your local machine for development and testing purposes.
 
 Prerequisites
