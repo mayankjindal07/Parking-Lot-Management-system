@@ -50,9 +50,7 @@ Make your changes
 Commit your changes (git commit -am 'Add new feature')
 Push to the branch (git push origin feature)
 Create a new Pull Request
-License
 
-This project is licensed under the MIT License.
 
 Acknowledgments
 
